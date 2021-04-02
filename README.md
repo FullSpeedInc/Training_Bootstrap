@@ -10,10 +10,11 @@ HTMLはindex.htmlに、CSSはcss/style.cssに記述しなさい。
 
 ### 1. PC表示を完成させなさい
 
-* テキストは https://www.craid-inc.com/ からコピーして下さい。
-* 使用するHTMLタグや文字サイズなどは任意で結構です。
+* ページ内のテキスト（文章）は https://www.craid-inc.com/ からコピー可能です。
+* 使用するHTMLタグや文字サイズ、余白サイズなどは大まかでOKです。
 * 画像は `images` フォルダに入っているものを使用して下さい。
 * グローバルメニューや `Read more` ボタンのリンク先は空でOKです。
+* なるべくCSSは書かずに、Bootstrapのクラス名を使って下さい。（下記ページはCSSなしで実装できます）
 * 下記画像をクリックすると大きな画面で見れます。
 
 <img src="https://github.com/FullSpeedInc/Training_Bootstrap/blob/master/pc_view.png?raw=true" width="400">
