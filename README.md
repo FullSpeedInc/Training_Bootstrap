@@ -13,6 +13,7 @@ HTMLはindex.htmlに、CSSはcss/style.cssに記述しなさい。
 * テキストは https://www.craid-inc.com/ からコピーして下さい。
 * `Company` はh2、`CRAID Inc.` はh3を使って下さい。
 * グローバルメニューや `Read more` ボタンのリンク先は空でOKです。
+* 下記画像をクリックすると大きな画面で見れます。
 
 <img src="https://github.com/FullSpeedInc/Training_Bootstrap/blob/master/pc_view.png?raw=true" width="400">
 
