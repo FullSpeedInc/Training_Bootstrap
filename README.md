@@ -23,4 +23,4 @@ HTMLはindex.htmlに、CSSはcss/style.cssに記述しなさい。
   https://www.atmarkit.co.jp/ait/articles/1403/20/news050.html
 * スマホ表示ではグリッドシステムを使って各要素が縦一列に並ぶようクラスを指定して下さい。
 
-![PC表示](https://github.com/FullSpeedInc/Training_Bootstrap/blob/master/sp_view.png?raw=true)
+<img src="https://github.com/FullSpeedInc/Training_Bootstrap/blob/master/sp_view.png?raw=true" style="width: 60%">
