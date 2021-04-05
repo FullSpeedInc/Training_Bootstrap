@@ -14,11 +14,13 @@ HTMLはindex.htmlに、CSSはcss/style.cssに記述しなさい。
 * 使用するHTMLタグや文字サイズ、余白サイズなどは大まかでOKです。
 * 画像は `images` フォルダに入っているものを使用して下さい。
 * グローバルメニューや `Read more` ボタンのリンク先は空でOKです。
-* なるべくCSSは書かずに、Bootstrapのクラス名を使って下さい。（下記ページはCSSなしで実装できます）
+* なるべくCSSは書かずに、Bootstrapのクラス名を使ってみて下さい。（下記ページはCSSなしで実装できます）
 * 下記画像をクリックすると大きな画面で見れます。
 
 <img src="https://github.com/FullSpeedInc/Training_Bootstrap/blob/master/pc_view.png?raw=true" width="400">
 
+#### ヒント
+* グローバルメニューとキービジュアル画像、フッターは画面いっぱいに広がり、コンテンツ部分はクラス `container` を利用して幅を制限しています。
 
 ### 2. スマホ表示を完成させなさい
 
